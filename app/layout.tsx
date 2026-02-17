@@ -9,6 +9,8 @@ const bricolage = Bricolage_Grotesque({
   subsets: ["latin"],
 });
 
+export const dynamic = "force-dynamic";
+
 export const metadata: Metadata = {
   title: "Converso",
   description: "Real-time AI Teaching Platform",
